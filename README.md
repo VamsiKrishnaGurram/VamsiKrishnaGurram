@@ -17,7 +17,7 @@ I'm a passionate Full-Stack Developer with expertise in both web and mobile appl
 
 ## 🌐 Connect with Me:
 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-purple?style=for-the-badge)]([https://gurramvamsikrishna-1.web.app/](https://gurramvamsikrishna-1.web.app/))
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-purple?style=for-the-badge)](https://gurramvamsikrishna-1.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurram-vamsi-krishna/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ig_hiccup/)
 
