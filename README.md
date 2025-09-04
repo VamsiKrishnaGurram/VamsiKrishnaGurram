@@ -9,7 +9,7 @@ I'm a passionate Full-Stack Developer with expertise in both web and mobile appl
 
 -  Full-Stack Developer | MERN + Django + React Native
 -  Currently learning advanced Redux patterns, Firebase Cloud Functions, and scalable backend APIs
--  Exploring: DigitalOcean droplets, Vercel deployments, and automated API testing with Apidog
+-  Exploring: DigitalOcean droplets, Vercel deployments, and automated API testing with Apidog and Postman
 -  Love building fast, responsive, and clean UI with Tailwind CSS and React
 -  Passionate about mobile development using React Native and integrating real-time features
 
