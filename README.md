@@ -43,6 +43,7 @@ I'm a passionate Full-Stack Developer with expertise in both web and mobile appl
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
+
 ### APIs & Tools:
 ![Apidog](https://img.shields.io/badge/Apidog-FB4F14?style=for-the-badge&logo=apidog&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
