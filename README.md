@@ -76,7 +76,7 @@ I'm a passionate Full-Stack Developer with expertise in both web and mobile appl
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dai-shi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VamsiKrishnaGurram&show_icons=true&theme=radical" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VamsiKrishnaGurram&theme=radical" />
 </p>
