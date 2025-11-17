@@ -1,6 +1,6 @@
 # Hello, I'm Gurram Vamsi Krishna
 
-I'm a passionate Full-Stack Developer with expertise in both web and mobile application development. I work extensively with the **MERN Stack**, **Django**, **React Native**, and robust tooling like **Redux**, **Firebase**, **Apidog**, and cloud platforms like **DigitalOcean**. I’m always on the lookout for exciting, scalable tech to explore and build real-world solutions with clean and efficient code.
+I'm a passionate Full-Stack Developer with expertise in both web and mobile application development. I work extensively with the **MERN Stack**, **Django**, **React Native**, and robust tooling like **Redux**, **Zustand**, **Firebase**, **Apidog**, and cloud platforms like **DigitalOcean**. I’m always on the lookout for exciting, scalable tech to explore and build real-world solutions with clean and efficient code.
 
 ---
 ---
